@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "KEATS Courseware Scraper",
+    "description": "Scrapes KCL KEATS (Moodle) course files into a brand-new local folder on a fixed command or /keats, fully automatically."
+  }
+}
