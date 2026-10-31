@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "KEATS课件爬取",
+    "description": "输入固定指令（如“爬取KEATS课件”）或 /keats 命令，全自动抓取 KCL KEATS 课程文件并保存到新的本地文件夹。"
+  }
+}
