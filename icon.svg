@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="KEATS courseware download">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#4D6BFE"/>
+  <path d="M32 13 L54 22 L32 31 L10 22 Z" fill="#ffffff"/>
+  <path d="M32 31 V35" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 24 L30 27.5" stroke="#FFD166" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32 41 V57" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M23 48 L32 57 L41 48" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
