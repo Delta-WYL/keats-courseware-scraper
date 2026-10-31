@@ -1,0 +1,9 @@
+- insert:
+    - id: keats-scraper
+      name: 'keats-courseware-scraper'
+      config:
+        chromeDebugPort: 9222
+        outputDir: ''
+        courses: []
+        downloadSharePoint: true
+        concurrency: 4
